@@ -64,8 +64,15 @@ Goal: To become a Project Manager who bridges business needs and technology solu
 
 ## Connect With Me
 
-- LinkedIn: 
-- Email:
+<p align="left">
+  <a href="mailto:denmark.dc.bartolome@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D8B4FE?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/denmark-bartolome-0b9667369/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 "Projects are the vehicle for delivering value."
 
