@@ -4,15 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1500&color=D8B4FE&center=true&vCenter=true&width=700&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
 </p>
 
-
 <p align="center"> "Projects are the vehicle for delivering value."
-  <br></br>
- — Project Management Institute </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-<h3 align="center"> About Me</h3>
+<h2 align="center"> About Me</h2>
 
 <p align="center">
   I'm Denmark, a BSIS student focused on software development, database management, and systems analysis.
@@ -28,7 +24,7 @@
 
 
 
-<h3 align="center"> Learning Journey & Focus Areas</h3>
+<h2 align="center"> Learning Journey & Focus Areas</h2>
 
 <p>
 
@@ -49,8 +45,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-<h3 align="center"> Tools & Stacks</h3>
-
+<h2 align="center"> Tools & Stacks</h2>
 
 <p align="center">
 
@@ -126,7 +121,6 @@
 <a href="https://neovim.io/">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
 </a>
-
 </p>
 
 
@@ -139,7 +133,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-<h3 align="center"> GitHub Stats</h3>
+<h2 align="center"> GitHub Stats</h2>
 
 
 <p align="center">
@@ -163,7 +157,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-<h3 align="center"> Contributions</h3>
+<h2 align="center"> Contributions</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Denmark-DC-Bartolome/Denmark-DC-Bartolome/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -173,7 +167,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-<h3 align="center"> Connect With Me</h3>
+<h2 align="center"> Connect With Me</h2>
 
 
 <p align="center">
