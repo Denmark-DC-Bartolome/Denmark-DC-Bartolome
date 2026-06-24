@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1500&color=D8B4FE&center=true&vCenter=true&width=700&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
 </h1>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Denmark-DC-Bartolome/Denmark-DC-Bartolome/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 ## About Me
 
 I'm Denmark, a Bachelor of Science in Information Systems (BSIS) student passionate about technology, problem-solving, and project management.
