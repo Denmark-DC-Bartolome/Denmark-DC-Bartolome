@@ -32,7 +32,6 @@
 |------------|-------------------|
 | Academic | Currently pursuing a Bachelor of Science in Information Systems (BSIS), focusing on systems analysis, business processes, and technology-driven solutions. |
 | Project Management | Studying project planning, stakeholder communication, risk management, and PMBOK principles to build a strong foundation in project leadership. |
-| gile | Learning Agile and Scrum methodologies to understand how modern teams collaborate, adapt, and deliver value efficiently. |
 | Information Systems | Exploring how technology aligns with organizational goals through system design, process improvement, and requirements analysis. |
 | Business Analysis | Developing skills in documentation, workflow modeling, and requirements gathering to bridge business needs and technical solutions. |
 | Software Development | Building practical experience with web technologies and databases to better understand the technical side of project execution. |
