@@ -48,8 +48,6 @@ Goal: To become a Project Manager who bridges business needs and technology solu
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
 
-<br><br>
-
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
@@ -69,8 +67,6 @@ Goal: To become a Project Manager who bridges business needs and technology solu
 <a href="https://www.linux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
-
-<br><br>
 
 <a href="https://www.canva.com/">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
