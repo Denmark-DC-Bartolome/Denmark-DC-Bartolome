@@ -42,6 +42,19 @@
 
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+
+<h2 align="center"> Projects</h2>
+
+<p>
+  
+  | Date | Project | Description | Role |
+  |------|---------|-------------|------|
+  | Oct 2025 | <a href="https://github.com/DDBSchool/Group-6--RWD-WAD-1st-Sem-Midterm-Project--S.Y-2025-2026">BrewMe </a> | A responsive e-commerce web application featuring dynamic product listings, real-time search, shopping cart management, and a modern user experience. | Project Manager & Assistant Programmer |
+  | Nov 2025 | <a href="https://github.com/Denmark-DC-Bartolome/Group5-DSA_FinalProject">Terminal-Based Bible App </a> | a terminal-based Bible app using appropriate data structures and algorithms. The application will allow users to search verses, bookmark passages, display a “verse of the day,” and maintain a search history — all within a simple command-line interface. | Project Manager & Main Programmer |
+
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
