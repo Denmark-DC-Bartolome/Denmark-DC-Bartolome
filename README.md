@@ -1,37 +1,68 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1500&color=D8B4FE&center=true&vCenter=true&width=700&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
-</h1>
-
+<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=D8B4FE&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Denmark-DC-Bartolome/Denmark-DC-Bartolome/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1500&color=D8B4FE&center=true&vCenter=true&width=700&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
 </p>
 
-## About Me
 
-I'm Denmark, a Bachelor of Science in Information Systems (BSIS) student passionate about technology, problem-solving, and project management.
+<p align="center"> "Projects are the vehicle for delivering value."
+  <br></br>
+ — Project Management Institute </p>
 
-Currently learning software development, database management, and system analysis.
 
-Goal: To become a Project Manager who bridges business needs and technology solutions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-## Tools & Tech Stack
+<h3 align="center"> About Me</h3>
+
+<p align="center">
+  I'm Denmark, a BSIS student focused on software development, database management, and systems analysis.
+  <br><br>
+  Through academic and personal projects, I continue to strengthen my technical expertise, <br>
+  problem-solving abilities, and understanding of business processes.
+  <br><br>
+  Aspiring to become a Project Manager who delivers value by aligning technology solutions with organizational goals.
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+
+
+
+<h3 align="center"> Learning Journey & Focus Areas</h3>
+
+<p>
+
+| Focus Area | Current Objectives |
+|------------|-------------------|
+| Academic | Currently pursuing a Bachelor of Science in Information Systems (BSIS), focusing on systems analysis, business processes, and technology-driven solutions. |
+| Project Management | Studying project planning, stakeholder communication, risk management, and PMBOK principles to build a strong foundation in project leadership. |
+| gile | Learning Agile and Scrum methodologies to understand how modern teams collaborate, adapt, and deliver value efficiently. |
+| Information Systems | Exploring how technology aligns with organizational goals through system design, process improvement, and requirements analysis. |
+| Business Analysis | Developing skills in documentation, workflow modeling, and requirements gathering to bridge business needs and technical solutions. |
+| Software Development | Building practical experience with web technologies and databases to better understand the technical side of project execution. |
+| Leadership | Strengthening communication, teamwork, and problem-solving skills to effectively support and lead cross-functional teams in the future. |
+| Career | Working toward a career in Project Management, with the goal of leading successful projects that create meaningful impact through technology. |
+|Programming Language | Currently advancing my knowledge in programming langauges.
+
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+
+<h3 align="center"> Tools & Stacks</h3>
+
 
 <p align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
@@ -47,6 +78,10 @@ Goal: To become a Project Manager who bridges business needs and technology solu
 <a href="https://laravel.com/">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
+
+</p>
+
+<p align="center">
 
 <a href="https://www.mysql.com/">
   <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -67,6 +102,10 @@ Goal: To become a Project Manager who bridges business needs and technology solu
 <a href="https://www.linux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
+</p>
+
+<p align="center">
+
 
 <a href="https://www.canva.com/">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
@@ -91,16 +130,17 @@ Goal: To become a Project Manager who bridges business needs and technology solu
 </p>
 
 
+<!--##  Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+-->
 
 
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-##  Featured Projects
+<h3 align="center"> GitHub Stats</h3>
 
-
-
-## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Denmark-DC-Bartolome&show_icons=true&theme=transparent" />
@@ -110,19 +150,33 @@ Goal: To become a Project Manager who bridges business needs and technology solu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denmark-DC-Bartolome&layout=compact&theme=transparent" />
 </p> -->
 
-## Currently Learning
 
-- Project Management Fundamentals
-- Software Engineering
-- Database Optimization
-- System Design
-- Agile Methodologies
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
 
-## Certifications
+<h3 align="center"> Currently Learning</h3>
 
-## Connect With Me
+<p align="center">
+  Project Management Fundamentals<br>
+  Python <br>
+</p> -->
+<!--## Certifications -->
 
-<p align="left">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+
+<h3 align="center"> Contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Denmark-DC-Bartolome/Denmark-DC-Bartolome/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D8B4FE&height=2&section=header"/>
+
+<h3 align="center"> Connect With Me</h3>
+
+
+<p align="center">
   <a href="mailto:denmark.dc.bartolome@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D8B4FE?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -132,6 +186,5 @@ Goal: To become a Project Manager who bridges business needs and technology solu
   </a>
 </p>
 
-"Projects are the vehicle for delivering value."
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D8B4FE&height=120&section=footer"/>
 
-— Project Management Institute (PMI), PMBOK® Guide 7th Edition
