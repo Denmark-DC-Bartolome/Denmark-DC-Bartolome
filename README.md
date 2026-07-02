@@ -149,7 +149,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denmark-DC-Bartolome&show_icons=true&theme=transparent" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Denmark-DC-Bartolome&show_icons=true&theme=transparent" />
 </p>
 
 <!-- <p align="center">
