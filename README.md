@@ -1,7 +1,7 @@
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=D8B4FE&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1500&color=D8B4FE&center=true&vCenter=true&width=700&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=45&pause=1500&color=D8B4FE&center=true&vCenter=true&width=800&lines=Hello%2C+Denmark+is+Here;BSIS+Student;Aspiring+Project+Manager" alt="Typing SVG" />
 </p>
 
 <p align="center"> "Projects are the vehicle for delivering value."
