@@ -29,9 +29,7 @@
 
 | Focus Area | Current Objectives |
 |------------|-------------------|
-| Academic | Currently pursuing a Bachelor of Science in Information Systems (BSIS), focusing on systems analysis, business processes, and technology-driven solutions. |
 | Project Management | Studying project planning, stakeholder communication, risk management, and PMBOK principles to build a strong foundation in project leadership. |
-| Information Systems | Exploring how technology aligns with organizational goals through system design, process improvement, and requirements analysis. |
 | Business Analysis | Developing skills in documentation, workflow modeling, and requirements gathering to bridge business needs and technical solutions. |
 | Software Development | Building practical experience with web technologies and databases to better understand the technical side of project execution. |
 | Leadership | Strengthening communication, teamwork, and problem-solving skills to effectively support and lead cross-functional teams in the future. |
