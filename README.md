@@ -35,6 +35,8 @@
 | Leadership | Strengthening communication, teamwork, and problem-solving skills to effectively support and lead cross-functional teams in the future. |
 | Career | Working toward a career in Project Management, with the goal of leading successful projects that create meaningful impact through technology. |
 |Programming Language | Currently advancing my knowledge in programming langauges.
+|React | I recently started learning React with the goal of staying competitive in market demand and equipping myself with knowledge of front-end design.
+
 
 </p>
 
